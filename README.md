@@ -24,4 +24,5 @@ JavaScript – Interactive elements and dynamic content.
 Voice Assistant (Custom AI) – Provides guided meditation and relaxation cues.
 
 Contributing:
+
 We welcome contributions to SereniFi! To contribute, fork the repository, create a new branch, make your improvements, and submit a pull request. Ensure your code follows best practices and includes proper documentation
